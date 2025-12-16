@@ -1,6 +1,6 @@
 {
   "name": "@zaix/gtm-test-mode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React hook and component to enable a test mode for GTM, allowing event validation without executing conversion actions.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

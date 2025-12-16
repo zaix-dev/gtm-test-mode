@@ -99,4 +99,4 @@ window.disableTestMode();
 
 ## License
 
-MIT © [zaix](https://github.com/zaix)
+MIT © [zaix](https://github.com/zaix-dev)
